@@ -1,0 +1,99 @@
+
+.aboutBox{
+  background-color: #232323;
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+}
+
+.aboutWrap{
+  color: #E3E4E8;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.8rem;
+
+}
+
+.aboutTextBox{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.aboutSubText > p{
+  text-align: center;
+  font-weight: 600;
+}
+
+.hashTagText{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.aboutMainimg  {
+  width: 50%;
+  height: auto; 
+  border-radius: 50%;
+  max-width: 300px;
+  height: auto; 
+  object-fit: cover;
+}
+
+
+/* 데스크 탑 */
+@media (min-width: 1024px) and (max-width: 1440px) {
+
+    .aboutTextBox > h1{
+      font-size: 3rem;
+      padding-top: 5.5rem;
+    }
+
+  .aboutSubText > p{
+   font-size: 1.5rem;
+  }
+
+  .aboutMainimg  {
+    max-width: 300px;
+  }
+
+  .hashTagText{
+    font-size: 1.5rem;
+  }
+}
+
+/* 테블릿  */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .aboutTextBox > h1{
+    font-size: 2rem;
+    padding-top: 4.5rem;
+  }
+
+}
+
+
+/* 모바일 스마트폰 */
+@media (min-width: 576px) and (max-width: 768px) {
+
+  .aboutTextBox > h1{
+    font-size: 1.7rem;
+    padding-top: 4rem;
+  }
+
+
+}
+
+@media (max-width: 576px) { 
+
+  .aboutTextBox > h1{
+    font-size: 1.7rem;
+    padding-top: 8rem;
+  }
+
+}
