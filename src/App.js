@@ -3,6 +3,7 @@ import About from './aboutme/About';
 import './App.css';
 import Header from './header/Header';
 import Skill from './skill/Skill';
+import Subabout from './subabout/Subabout';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       </div>
       <div className='contents'>
         <Header />
+        <Subabout />
         <Skill />
       </div>
     </div>

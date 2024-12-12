@@ -1,0 +1,34 @@
+.titleStyle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 3rem;
+  color: #03258A;
+}
+
+.titleStyle div:nth-child(1) {
+  font-size: 1.3rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+.titleStyle div:nth-child(2) {
+  width: 85%;
+  margin-left: 1.2rem;
+  height: 0.05rem;
+  background-color: #03258A;
+}
+
+
+
+@media (max-width: 576px) {
+
+  .titleStyle div:nth-child(1) {
+    font-size: 1.2rem;
+  }
+
+  .titleStyle div:nth-child(2) {
+    width: 85%;
+    margin-left: 1.2rem;
+  }
+}
