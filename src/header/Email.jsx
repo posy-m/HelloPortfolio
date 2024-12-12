@@ -39,7 +39,7 @@ const Email = () => {
 const toastStyle = {
   position: "absolute",
   // top: "50px",
-  left: "30px",
+  left: "100px",
   backgroundColor: "#333",
   color: "#fff",
   padding: "5px 10px",

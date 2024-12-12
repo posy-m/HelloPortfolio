@@ -13,6 +13,7 @@
   margin-top: 42rem;
 }
 
+
 @media (min-width: 1024px) and (max-width: 1440px) {
   .contents {
     margin-top: 47rem;

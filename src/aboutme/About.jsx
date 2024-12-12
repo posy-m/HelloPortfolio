@@ -19,7 +19,7 @@ const About = () => {
         <section className={styles.hashTagText}>
           <span>#책임감</span>
           <span>#개발자는 불편해야한다.</span>
-          <span>#근거있게 일히자</span>
+          <span>#근거있게 일하자</span>
         </section>
       </div>
 
