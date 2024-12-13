@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/posy-m/HelloPortfolio.git/static/css/main.7b90bde7.css",
+    "main.js": "/posy-m/HelloPortfolio.git/static/js/main.19863d35.js",
+    "static/media/main.jpg": "/posy-m/HelloPortfolio.git/static/media/main.9673a8f4f5f120bd0837.jpg",
+    "static/media/mimo3.png": "/posy-m/HelloPortfolio.git/static/media/mimo3.23b36cce82feb525afb9.png",
+    "static/media/mimo2.png": "/posy-m/HelloPortfolio.git/static/media/mimo2.2f11bf4c9669af36a20c.png",
+    "static/media/mimo1.png": "/posy-m/HelloPortfolio.git/static/media/mimo1.edabf6be688d0e611e03.png",
+    "static/media/NestJS-Dark.svg": "/posy-m/HelloPortfolio.git/static/media/NestJS-Dark.be7a3552333781a685d72f31548fcf58.svg",
+    "static/media/gray.jpeg": "/posy-m/HelloPortfolio.git/static/media/gray.34f6f2dbde66b2a1895e.jpeg",
+    "static/media/MySQL-Dark.svg": "/posy-m/HelloPortfolio.git/static/media/MySQL-Dark.2c7bc3527aee2ed7b38cfc0e65a16b86.svg",
+    "static/media/NodeJS.svg": "/posy-m/HelloPortfolio.git/static/media/NodeJS.d01eb487bc154d914fbee19be73a6ef0.svg",
+    "static/media/NextJS.svg": "/posy-m/HelloPortfolio.git/static/media/NextJS.24b4ea0776052cd1aa534e3b400a6272.svg",
+    "static/media/React.svg": "/posy-m/HelloPortfolio.git/static/media/React.45e05858175d1edbb57051533007343c.svg",
+    "static/media/TypeScript.svg": "/posy-m/HelloPortfolio.git/static/media/TypeScript.5d93426aa26d9e2ac669d370a8fc46a1.svg",
+    "static/media/JavaScript.svg": "/posy-m/HelloPortfolio.git/static/media/JavaScript.9a071f2801f9f92598764d48c7225305.svg",
+    "static/media/TailwindCSS-Dark.svg": "/posy-m/HelloPortfolio.git/static/media/TailwindCSS-Dark.64f865ec00b139cb9ae7b35692bd0ec7.svg",
+    "index.html": "/posy-m/HelloPortfolio.git/index.html",
+    "static/media/CSS.svg": "/posy-m/HelloPortfolio.git/static/media/CSS.5fcd7f5683afc0fc6d0186a083262016.svg",
+    "static/media/HTML.svg": "/posy-m/HelloPortfolio.git/static/media/HTML.ca0db580ffd74f086f2dc2a71dacd660.svg",
+    "main.7b90bde7.css.map": "/posy-m/HelloPortfolio.git/static/css/main.7b90bde7.css.map",
+    "main.19863d35.js.map": "/posy-m/HelloPortfolio.git/static/js/main.19863d35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b90bde7.css",
+    "static/js/main.19863d35.js"
+  ]
+}
