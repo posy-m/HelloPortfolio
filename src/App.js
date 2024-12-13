@@ -2,6 +2,7 @@
 import About from './aboutme/About';
 import './App.css';
 import Header from './header/Header';
+import Project from './project/Project';
 import Skill from './skill/Skill';
 import Subabout from './subabout/Subabout';
 
@@ -15,6 +16,7 @@ function App() {
         <Header />
         <Subabout />
         <Skill />
+        <Project />
       </div>
     </div>
   );
