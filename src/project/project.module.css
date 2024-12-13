@@ -1,7 +1,11 @@
-.projectBox{
+.projectBox {
   padding-top: 2.5rem;
 }
 
 .projectWrap {
   padding-top: 3rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
 }

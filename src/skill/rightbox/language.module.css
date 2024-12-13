@@ -15,20 +15,21 @@
   box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
 }
 
+
+
 .languageBtnBox button.active {
   background-color: #03258A;
   color: white;
   font-weight: bold;
 }
 
+/* 
 .languageBtnBox button:hover {
   background-color: #e0e0e0;
-}
-
-
-.languageBtnBox button:hover {
   border: 1px solid white
-}
+} */
+
+
 
 
 .languageImgBox {
@@ -42,10 +43,7 @@
 .skillImgBox {
   display: flex;
   align-items: center;
-  /* background-color: red; */
-  /* flex-wrap: wrap; */
   height: 3rem;
-  /* box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #E0E4EB; */
 
 }
 
@@ -56,4 +54,16 @@
 
 .skillImgBox p {
   padding-left: 1rem;
+}
+
+
+
+@media (max-width: 576px) {
+
+  .languageBtnBox button {
+    padding: 0.5em 1em;
+    font-size: 13px;
+  }
+
+
 }
