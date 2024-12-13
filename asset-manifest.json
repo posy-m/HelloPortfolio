@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/HelloPortfolio/static/css/main.6f65eee1.css",
-    "main.js": "/HelloPortfolio/static/js/main.618b4f67.js",
+    "main.css": "/HelloPortfolio/static/css/main.b539c8e9.css",
+    "main.js": "/HelloPortfolio/static/js/main.416b4108.js",
     "static/media/main.jpg": "/HelloPortfolio/static/media/main.9673a8f4f5f120bd0837.jpg",
+    "static/media/wine.png": "/HelloPortfolio/static/media/wine.8b8f221ae5d276172096.png",
+    "static/media/app.png": "/HelloPortfolio/static/media/app.3199471d6952943e4d42.png",
+    "static/media/donutshop.png": "/HelloPortfolio/static/media/donutshop.1784b7c125a12f042fed.png",
     "static/media/mimo3.png": "/HelloPortfolio/static/media/mimo3.23b36cce82feb525afb9.png",
     "static/media/mimo2.png": "/HelloPortfolio/static/media/mimo2.2f11bf4c9669af36a20c.png",
     "static/media/mimo1.png": "/HelloPortfolio/static/media/mimo1.edabf6be688d0e611e03.png",
@@ -18,11 +21,11 @@
     "index.html": "/HelloPortfolio/index.html",
     "static/media/CSS.svg": "/HelloPortfolio/static/media/CSS.5fcd7f5683afc0fc6d0186a083262016.svg",
     "static/media/HTML.svg": "/HelloPortfolio/static/media/HTML.ca0db580ffd74f086f2dc2a71dacd660.svg",
-    "main.6f65eee1.css.map": "/HelloPortfolio/static/css/main.6f65eee1.css.map",
-    "main.618b4f67.js.map": "/HelloPortfolio/static/js/main.618b4f67.js.map"
+    "main.b539c8e9.css.map": "/HelloPortfolio/static/css/main.b539c8e9.css.map",
+    "main.416b4108.js.map": "/HelloPortfolio/static/js/main.416b4108.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f65eee1.css",
-    "static/js/main.618b4f67.js"
+    "static/css/main.b539c8e9.css",
+    "static/js/main.416b4108.js"
   ]
 }
