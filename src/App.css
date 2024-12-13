@@ -8,10 +8,17 @@
   background-size: cover;
   background-repeat: no-repeat;
   /* width: 100%; */
-  height: 100vh;
+  /* height: 100vh; */
   margin-top: 42rem;
   padding: 2.5rem;
 }
+
+@media (min-width: 1440px) {
+  .contents {
+    margin-top: 47rem;
+  }
+}
+
 
 
 @media (min-width: 1024px) and (max-width: 1440px) {

@@ -1,0 +1,32 @@
+.skillBox {
+  padding-top: 2.5rem;
+}
+
+.skillWrap {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 3rem;
+  justify-content: center;
+  gap: 8rem;
+}
+
+.leftBox {
+  width: 30%;
+}
+
+.rightBox {
+  width: 42%;
+}
+
+@media (max-width: 768px) {
+
+  .leftBox,
+  .rightBox {
+    width: 100%;
+  }
+
+  .skillWrap {
+
+    gap: 4rem;
+  }
+}
