@@ -1,9 +1,9 @@
 import React from 'react'
 import styles from './square.module.css'
 
-const Square = ({ src, alt, title, content, hashtag, technology }) => {
+const Square = ({ src, alt, title, content, hashtag, technology, onClick }) => {
   return (
-    <div className={styles.squareBox}>
+    <div className={styles.squareBox} onClick={onClick}>
       <div className={styles.imgBox}>
         <img src={src} alt={alt} />
       </div>
