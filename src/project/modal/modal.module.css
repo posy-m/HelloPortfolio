@@ -215,12 +215,15 @@ padding-left: 1.2rem ;
 }
 
 
-
 @media (max-width: 576px) {
   .modalContent {
     width: 85%;
     height: 90%;
   }
   
+  .stack span {
+    padding: 0.5rem;
+    font-size: 0.6rem;
+  }
 
 }
