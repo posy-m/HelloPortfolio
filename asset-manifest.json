@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HelloPortfolio/static/css/main.0b22c0c7.css",
+    "main.css": "/HelloPortfolio/static/css/main.ddb19faf.css",
     "main.js": "/HelloPortfolio/static/js/main.ef4efab0.js",
     "static/media/unmountin.gif": "/HelloPortfolio/static/media/unmountin.f36bcaa937d44be939d7.gif",
     "static/media/donut.gif": "/HelloPortfolio/static/media/donut.5d67c2d73ee460a3cb0c.gif",
@@ -46,11 +46,11 @@
     "index.html": "/HelloPortfolio/index.html",
     "static/media/CSS.svg": "/HelloPortfolio/static/media/CSS.5fcd7f5683afc0fc6d0186a083262016.svg",
     "static/media/HTML.svg": "/HelloPortfolio/static/media/HTML.ca0db580ffd74f086f2dc2a71dacd660.svg",
-    "main.0b22c0c7.css.map": "/HelloPortfolio/static/css/main.0b22c0c7.css.map",
+    "main.ddb19faf.css.map": "/HelloPortfolio/static/css/main.ddb19faf.css.map",
     "main.ef4efab0.js.map": "/HelloPortfolio/static/js/main.ef4efab0.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b22c0c7.css",
+    "static/css/main.ddb19faf.css",
     "static/js/main.ef4efab0.js"
   ]
 }
