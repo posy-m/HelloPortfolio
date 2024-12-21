@@ -213,3 +213,14 @@ padding-left: 1.2rem ;
   list-style-type:lower-alpha;
   padding-top: 0.5rem ;
 }
+
+
+
+@media (max-width: 576px) {
+  .modalContent {
+    width: 85%;
+    height: 90%;
+  }
+  
+
+}
