@@ -129,7 +129,7 @@ const Project = () => {
               linkName: "https://github.com/posy-m/InsideOut",
               linkNameNotion: "https://lavish-spike-71b.notion.site/InsideOut-52b02e18ce2c4ec0ae5ba5a5848185ad",
               personnel: "4명 (Frontend, Backend)",
-              introduction: "산을 오르며 고도에 따라 포인트를 적립하고,적립 된 포인트로 다양한 상품이나 캐릭터를 구매하여 즐길 수 있는 어플입니다.",
+              introduction: "주류를 좋아하는 사람들의 커뮤니티 사이트입니다.",
               chargeConent: [
                 " 로그인한 회원이 제목과 내용 작성과 Multer를 이용해 이미지를 업로드 할 수 있는 게시글 작성 기능을 구현",
                 "게시글의 고유한 ID값을 요청 받아 데이터베이스에서 해당 데이터를 조회하고 Sequelize를 사용하여 서버에서 수정 및 삭제 기능을 구현",
