@@ -125,7 +125,7 @@ const Project = () => {
             hashtag='Web'
             onClick={() => openMoal({
               title: "주류 커뮤니티 사이트",
-              date: "2024.09.24-2024.10.24(30일)",
+              date: "2024.07.18-2024.08.05(19일)",
               linkName: "https://github.com/posy-m/InsideOut",
               linkNameNotion: "https://lavish-spike-71b.notion.site/InsideOut-52b02e18ce2c4ec0ae5ba5a5848185ad",
               personnel: "4명 (Frontend, Backend)",
